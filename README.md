@@ -1,2 +1,3 @@
 # wxgo
-Implement Wechat JSSDK APIs in Go
+Implement Wechat jsapi_ticket in Go
+
